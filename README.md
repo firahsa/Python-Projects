@@ -2,4 +2,4 @@
 Series of python projects
 
 Objective:
-demonstrate a solid understanding of Python 
+Demonstrate a solid understanding of Python 
