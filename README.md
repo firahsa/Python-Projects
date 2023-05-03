@@ -1,5 +1,5 @@
 # Python-Projects
-series of python projects
+Series of python projects
 
 Objective:
 demonstrate a solid understanding of Python 
